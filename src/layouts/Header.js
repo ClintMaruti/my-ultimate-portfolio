@@ -52,13 +52,13 @@ const Menu = () => (
         </span>
       </a>
     </li>
-    <li className="menu-item">
+    {/* <li className="menu-item">
       <a href="#section-portfolio">
         <span className="animated-button">
           <span>Portfolio</span>
         </span>
       </a>
-    </li>
+    </li> */}
     <li className="menu-item">
       <a href="#section-contacts">
         <span className="animated-button">
